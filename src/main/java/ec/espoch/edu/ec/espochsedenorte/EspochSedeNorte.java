@@ -13,5 +13,6 @@ public class EspochSedeNorte {
     public static void main(String[] args) {
         System.out.println("Hola Hola");
         System.out.println("Hola Hola");
+        System.out.println("bienvenido a la sede norte");
     }
 }
